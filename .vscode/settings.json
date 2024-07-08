@@ -1,0 +1,4 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "gitlens.ai.experimental.model": "openai:gpt-4o"
+}
